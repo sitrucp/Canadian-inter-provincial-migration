@@ -1,0 +1,179 @@
+source,target,value
+From Newfoundland,To Prince Edward Island,7326
+From Newfoundland,To Nova Scotia,73818
+From Newfoundland,To New Brunswick,28828
+From Newfoundland,To Quebec,16267
+From Newfoundland,To Ontario,201365
+From Newfoundland,To Manitoba,13009
+From Newfoundland,To Saskatchewan,6072
+From Newfoundland,To Alberta,111938
+From Newfoundland,To British Columbia,32579
+From Newfoundland,To Yukon,1745
+From Newfoundland,To NWT including Nunavut,3412
+From Newfoundland,To NWT,3780
+From Newfoundland,To Nunavut,2783
+From Prince Edward Island,To Newfoundland,5576
+From Prince Edward Island,To Nova Scotia,30226
+From Prince Edward Island,To New Brunswick,19917
+From Prince Edward Island,To Quebec,4885
+From Prince Edward Island,To Ontario,36185
+From Prince Edward Island,To Manitoba,2652
+From Prince Edward Island,To Saskatchewan,2033
+From Prince Edward Island,To Alberta,21222
+From Prince Edward Island,To British Columbia,8493
+From Prince Edward Island,To Yukon,300
+From Prince Edward Island,To NWT including Nunavut,406
+From Prince Edward Island,To NWT,337
+From Prince Edward Island,To Nunavut,171
+From Nova Scotia,To Newfoundland,54158
+From Nova Scotia,To Prince Edward Island,29433
+From Nova Scotia,To New Brunswick,113793
+From Nova Scotia,To Quebec,45400
+From Nova Scotia,To Ontario,292218
+From Nova Scotia,To Manitoba,21937
+From Nova Scotia,To Saskatchewan,13002
+From Nova Scotia,To Alberta,132549
+From Nova Scotia,To British Columbia,83434
+From Nova Scotia,To Yukon,1909
+From Nova Scotia,To NWT including Nunavut,2769
+From Nova Scotia,To NWT,2897
+From Nova Scotia,To Nunavut,1821
+From New Brunswick,To Newfoundland,21878
+From New Brunswick,To Prince Edward Island,19915
+From New Brunswick,To Nova Scotia,117725
+From New Brunswick,To Quebec,92582
+From New Brunswick,To Ontario,192192
+From New Brunswick,To Manitoba,15506
+From New Brunswick,To Saskatchewan,8496
+From New Brunswick,To Alberta,89421
+From New Brunswick,To British Columbia,39318
+From New Brunswick,To Yukon,853
+From New Brunswick,To NWT including Nunavut,1458
+From New Brunswick,To NWT,1313
+From New Brunswick,To Nunavut,821
+From Quebec,To Newfoundland,16152
+From Quebec,To Prince Edward Island,7242
+From Quebec,To Nova Scotia,54507
+From Quebec,To New Brunswick,103036
+From Quebec,To Ontario,1059399
+From Quebec,To Manitoba,34264
+From Quebec,To Saskatchewan,17990
+From Quebec,To Alberta,174320
+From Quebec,To British Columbia,163990
+From Quebec,To Yukon,2642
+From Quebec,To NWT including Nunavut,3664
+From Quebec,To NWT,1567
+From Quebec,To Nunavut,2150
+From Ontario,To Newfoundland,173902
+From Ontario,To Prince Edward Island,42029
+From Ontario,To Nova Scotia,289484
+From Ontario,To New Brunswick,191037
+From Ontario,To Quebec,669723
+From Ontario,To Manitoba,233370
+From Ontario,To Saskatchewan,122252
+From Ontario,To Alberta,795578
+From Ontario,To British Columbia,769593
+From Ontario,To Yukon,10416
+From Ontario,To NWT including Nunavut,13025
+From Ontario,To NWT,8163
+From Ontario,To Nunavut,4995
+From Manitoba,To Newfoundland,10072
+From Manitoba,To Prince Edward Island,2957
+From Manitoba,To Nova Scotia,22608
+From Manitoba,To New Brunswick,14511
+From Manitoba,To Quebec,29880
+From Manitoba,To Ontario,258103
+From Manitoba,To Saskatchewan,132701
+From Manitoba,To Alberta,258206
+From Manitoba,To British Columbia,208372
+From Manitoba,To Yukon,3271
+From Manitoba,To NWT including Nunavut,5929
+From Manitoba,To NWT,2352
+From Manitoba,To Nunavut,1769
+From Saskatchewan,To Newfoundland,4471
+From Saskatchewan,To Prince Edward Island,1983
+From Saskatchewan,To Nova Scotia,13348
+From Saskatchewan,To New Brunswick,7617
+From Saskatchewan,To Quebec,14925
+From Saskatchewan,To Ontario,121556
+From Saskatchewan,To Manitoba,124811
+From Saskatchewan,To Alberta,484121
+From Saskatchewan,To British Columbia,202051
+From Saskatchewan,To Yukon,4397
+From Saskatchewan,To NWT including Nunavut,5917
+From Saskatchewan,To NWT,3285
+From Saskatchewan,To Nunavut,891
+From Alberta,To Newfoundland,63683
+From Alberta,To Prince Edward Island,13761
+From Alberta,To Nova Scotia,89905
+From Alberta,To New Brunswick,56501
+From Alberta,To Quebec,88215
+From Alberta,To Ontario,564365
+From Alberta,To Manitoba,158508
+From Alberta,To Saskatchewan,338877
+From Alberta,To British Columbia,1018794
+From Alberta,To Yukon,18756
+From Alberta,To NWT including Nunavut,22761
+From Alberta,To NWT,16510
+From Alberta,To Nunavut,1832
+From British Columbia,To Newfoundland,20727
+From British Columbia,To Prince Edward Island,6924
+From British Columbia,To Nova Scotia,70837
+From British Columbia,To New Brunswick,31034
+From British Columbia,To Quebec,96386
+From British Columbia,To Ontario,555735
+From British Columbia,To Manitoba,120594
+From British Columbia,To Saskatchewan,143750
+From British Columbia,To Alberta,939221
+From British Columbia,To Yukon,32814
+From British Columbia,To NWT including Nunavut,14809
+From British Columbia,To NWT,7771
+From British Columbia,To Nunavut,1544
+From Yukon,To Newfoundland,1205
+From Yukon,To Prince Edward Island,296
+From Yukon,To Nova Scotia,1540
+From Yukon,To New Brunswick,883
+From Yukon,To Quebec,2034
+From Yukon,To Ontario,8436
+From Yukon,To Manitoba,2559
+From Yukon,To Saskatchewan,3921
+From Yukon,To Alberta,22445
+From Yukon,To British Columbia,39549
+From Yukon,To NWT including Nunavut,1933
+From Yukon,To NWT,1336
+From Yukon,To Nunavut,175
+From NWT including Nunavut,To Newfoundland,2548
+From NWT including Nunavut,To Prince Edward Island,362
+From NWT including Nunavut,To Nova Scotia,2486
+From NWT including Nunavut,To New Brunswick,1214
+From NWT including Nunavut,To Quebec,3633
+From NWT including Nunavut,To Ontario,12512
+From NWT including Nunavut,To Manitoba,5157
+From NWT including Nunavut,To Saskatchewan,5093
+From NWT including Nunavut,To Alberta,28069
+From NWT including Nunavut,To British Columbia,18772
+From NWT including Nunavut,To Yukon,3060
+From NWT,To Newfoundland,2338
+From NWT,To Prince Edward Island,341
+From NWT,To Nova Scotia,2382
+From NWT,To New Brunswick,1063
+From NWT,To Quebec,1220
+From NWT,To Ontario,6999
+From NWT,To Manitoba,2349
+From NWT,To Saskatchewan,3956
+From NWT,To Alberta,26527
+From NWT,To British Columbia,10362
+From NWT,To Yukon,2388
+From NWT,To Nunavut,3086
+From Nunavut,To Newfoundland,2190
+From Nunavut,To Prince Edward Island,228
+From Nunavut,To Nova Scotia,1622
+From Nunavut,To New Brunswick,744
+From Nunavut,To Quebec,2273
+From Nunavut,To Ontario,5279
+From Nunavut,To Manitoba,1979
+From Nunavut,To Saskatchewan,880
+From Nunavut,To Alberta,2573
+From Nunavut,To British Columbia,1684
+From Nunavut,To Yukon,308
+From Nunavut,To NWT,4272
