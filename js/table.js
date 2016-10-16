@@ -11,24 +11,24 @@ var tabulate = function (data,columns) {
 		.text(function (d) { return d })
 
 	var rows = tbody.selectAll('tr')
-	.data(data)
-	.enter()
-	.append('tr')
+        .data(data)
+        .enter()
+        .append('tr')
 
 	var cells = rows.selectAll('td')
-	.data(function(row) {
-		return columns.map(function (column) {
-			return { column: column, value: row[column] }
-		})
-	})
-	.enter()
-	.append('td')
-	.text(function (d) { return d.value })
+        .data(function(row) {
+            return columns.map(function (column) {
+                return { column: column, value: row[column] }
+            })
+        })
+        .enter()
+        .append('td')
+        .text(function (d) { return d.value })
 
 	return table;
 }
 
 d3.csv("data/can_mig_by_prov.csv",function (data) {
-var columns = ['source','target','value']
-tabulate(data,columns)
+    var columns = ['source','target','value']
+    tabulate(data,columns)
 })
